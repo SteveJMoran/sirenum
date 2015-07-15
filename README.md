@@ -1,2 +1,2 @@
 # sirenum
-WordPress theme
+MARSWorks WordPress Theme
